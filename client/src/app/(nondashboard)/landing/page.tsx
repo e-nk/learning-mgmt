@@ -7,6 +7,7 @@ import Image from 'next/image';
 import { current } from '@reduxjs/toolkit';
 import { useCarousel } from '@/hooks/useCarousel';
 import { Skeleton } from '@/components/ui/skeleton';
+import { useGetCoursesQuery } from '@/state/api';
 
 
 const LoadingSkeleton=()=>{
@@ -42,6 +43,10 @@ const LoadingSkeleton=()=>{
 
 const Landing = () =>{
 	const currentImage = useCarousel({totalImages: 3});
+	const {data: courses, isLoading, isError} = useGetCoursesQuery({});
+	console.log('courses', courses);
+
+	
 	return (
 		<motion.div
 		initial={{opacity:0}}
