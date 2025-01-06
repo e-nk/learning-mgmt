@@ -4,7 +4,7 @@ This project is an enterprise-grade full-stack Learning Management Application b
 
 ## Demo
 You can explore the demo of the Learning Management System here:  
-[Demo LInk ->](https://learning-management-navy.vercel.app/)
+[Demo LInk ->](https://learning-mgmt-lilac.vercel.app/)
 
 ## Diagrams and Assets
 - Diagrams: [View Diagrams](https://miro.com/app/board/uXjVLDSd2p0=/)
