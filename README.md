@@ -6,10 +6,6 @@ This project is an enterprise-grade full-stack Learning Management Application b
 You can explore the demo of the Learning Management System here:  
 [Demo Link]
 
-## Completed Code
-Access the full code repository here:  
-[GitHub Repository](https://github.com/e-nk/learning-mgmt)
-
 ## Diagrams and Assets
 - Diagrams: [View Diagrams](https://miro.com/app/board/uXjVLDSd2p0=/)
 
