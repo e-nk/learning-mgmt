@@ -1,15 +1,15 @@
 import { useState, useEffect } from "react";
 
-interface UseCarouselProps{
-	totalImages: number;
-	interval?: number;
+interface UseCarouselProps {
+  totalImages: number;
+  interval?: number;
 }
 
-export const useCarousel =({
-	totalImages,
-	interval = 5000,
+export const useCarousel = ({
+  totalImages,
+  interval = 5000,
 }: UseCarouselProps) => {
-	const [currentImage, setCurrentImage] = useState(0);
+  const [currentImage, setCurrentImage] = useState(0);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -20,4 +20,4 @@ export const useCarousel =({
   }, [totalImages, interval]);
 
   return currentImage;
-}
+};
