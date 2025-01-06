@@ -27,7 +27,7 @@ You can explore the demo of the Learning Management System here:
 
 ## Description
 
-This tutorial covers how to build a **Learning Management System** (LMS) with **Next.js**, **Node.js**, and **AWS** services. The application consists of a frontend, backend, and various integrations that help create a fully-fledged scalable LMS. This project uses **Clerk** for authentication, **DynamoDB** for database storage, **S3** for file storage, and **AWS Lambda** for serverless functions.
+**Learning Management System** (LMS) with **Next.js**, **Node.js**, and **AWS** services. The application consists of a frontend, backend, and various integrations that help create a fully-fledged scalable LMS. This project uses **Clerk** for authentication, **DynamoDB** for database storage, **S3** for file storage, and **AWS Lambda** for serverless functions.
 
 ### Features:
 - **Frontend**: Next.js, Redux Toolkit, Tailwind CSS, Shadcn, TypeScript, Framer Motion, React Hook Form, Zod, and Stripe for managing payments.
