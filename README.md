@@ -1,4 +1,4 @@
-# Learning Management App (LMS) with Next.js, AWS, Docker, Clerk, and More
+# Learning Management System (LMS) with Next.js, AWS, Docker, Clerk, and More
 
 This project is an enterprise-grade full-stack Learning Management Application built using modern technologies such as **Next.js**, **Node.js**, **AWS**, **Docker**, and **Clerk**. The application is designed to be scalable, secure, and efficient, offering an optimal learning experience with features like course management, billing, and authentication.
 
